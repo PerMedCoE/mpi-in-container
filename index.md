@@ -18,9 +18,10 @@
  - Be able to select a feasible strategy (not necessary able to implement) 
  - Comprehend the limitations, difficulty and trade offs when using MPI containers.
 
-
-* TOC {:toc}
-
+* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+	
+* Placeholder for Table of Content (Must not be removed) 
+{:toc}
 
 ## Introduction
 The motivation for the endeavor of putting MPI applications inside a container
