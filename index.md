@@ -18,7 +18,9 @@
  - Be able to select a feasible strategy (not necessary able to implement) 
  - Comprehend the limitations, difficulty and trade offs when using MPI containers.
 
-{:toc}
+
+* TOC {:toc}
+
 
 ## Introduction
 The motivation for the endeavor of putting MPI applications inside a container
