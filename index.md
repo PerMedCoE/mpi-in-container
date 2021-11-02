@@ -18,6 +18,7 @@
  - Be able to select a feasible strategy (not necessary able to implement) 
  - Comprehend the limitations, difficulty and trade offs when using MPI containers.
 
+## TOC
 * Placeholder for Table of Content (Must not be removed) <newline> {:toc}
 	
 * Placeholder for Table of Content (Must not be removed) 
