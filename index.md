@@ -18,7 +18,7 @@
  - Be able to select a feasible strategy (not necessary able to implement) 
  - Comprehend the limitations, difficulty and trade offs when using MPI containers.
 
-> This material has been created as part of the PerMedCoE project
+> This material has been created as part of the PerMedCoE project.
 > The PerMedCoE project has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement Nº 951773
 
 ## TOC
